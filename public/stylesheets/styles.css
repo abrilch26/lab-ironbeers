@@ -1,7 +1,25 @@
+body{
+    background-color:  #f7f9f9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 /*
-white: #f7f9f9;
 light-blue: #2081c3;
-dark-blue: #0a2c42;
-grey: #bfbfbf;
-font-family: Arial, Helvetica, sans-serif;
-*/
+    dark-blue: #0a2c42;
+    grey: #bfbfbf;
+    */
+
+.home-beer{
+     margin-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.all-beers-title{
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 70px;
+}
